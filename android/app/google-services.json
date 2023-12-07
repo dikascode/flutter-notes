@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188502671380",
+    "project_id": "dikas-flutter-notes",
+    "storage_bucket": "dikas-flutter-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188502671380:android:30e9c9aef27bd68703e701",
+        "android_client_info": {
+          "package_name": "com.dikascode.flutternotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZCbpw8uudvXtZQD-01OiUHPD2YC6cxaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
